@@ -53,8 +53,8 @@ public class Main {
         //結果を出力するかのフラグ
         boolean isResultShow = true;
 
-
-        for(int i = 0; i < 101 ;i++){
+        //TODO: 手動
+        for(int i = 0; i < 31 ;i++){
 
             /* 初回以外arを0.01ずつ増やす */
             if(i != 0){
